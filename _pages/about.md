@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Home"
 author_profile: true
 redirect_from: 
   - /about/
@@ -27,6 +27,7 @@ Technical Skills
 Education
 ======
 **B.S. in Computer Science | University of California, Santa Barbara (_June 2023_)** 	
+
 
 Experience
 ======
