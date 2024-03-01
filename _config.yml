@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Home"
-title_separator          : "-"
+title                    : ""
+title_separator          : ""
 name                     : &name "Justin Lai"
 description              : &description "personal description"
 url                      : https://Lai-Justin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
