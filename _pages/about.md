@@ -49,23 +49,33 @@ Experience
 
 Projects
 ======
-**CIFAR-10 Convolutional Neural Network Image Classifier** | [Github](https://github.com/Lai-Justin/Keras-CIFAR-10-CNN)
+**CIFAR-10 Convolutional Neural Network Image Classifier**
+
+[Github](https://github.com/Lai-Justin/Keras-CIFAR-10-CNN)
 
 The CIFAR-10 dataset is a collection of 60,000 32x32 color images, with each of the images falling into one of ten different categories. These categories are: airplanes, automobiles, birds, cats, deers, dogs, frogs, horses, ships, and trucks. Using this dataset, I created a convolutional neural network to create a machine learning image classifier to classify 10,000 of the images to the correct categorical label.
 
-**Four-Year Schedule Planner** | [Github](https://github.com/Lai-Justin/Schedule-Planner)
+**Four-Year Schedule Planner**
+
+[Github](https://github.com/Lai-Justin/Schedule-Planner)
 
 In an effort to aid fellow incoming and current Gauchos at the UC Santa Barbara, I created a web application that allows students to more easily and conveniently schedule course schedules for every quarter of every year during their undergraduate career. The Four-Year Schedule Planner includes functionality such as specific major requirement auotfills, historical course grade distributions, and course search functionalities.
 
-**Athlete Fitness Naïve Bayes' Classifier** | [Github](https://github.com/Lai-Justin/Schedule-Planner)
+**Athlete Fitness Naïve Bayes' Classifier**
+
+[Github](https://github.com/Lai-Justin/Schedule-Planner)
 
 As a first attempt at Artificial Intelligence, I developed a program which classified and predicted the fitness of a person given their health information using the Naïve Bayes' Theorem. This was done by training a model using dataset contain the health information of 10,000 different athletes and health criteria such as weight, height, heart rate, and grip strength.
 
-**Temperature-Based Automated Window Control Software** | [Github](https://github.com/Lai-Justin/Window-Control)
+**Temperature-Based Automated Window Control Software**
+
+[Github](https://github.com/Lai-Justin/Window-Control)
 
 Inspired by a particularly hot summer in Berlin without air conditioning, I decided to create a device that could automatically maintain a cool temperture indoors during a heatwave without the use of air conditioning and fans as a proof of concept idea for people who are low-mobility or disabled. This was done using a RaspberryPi, heat sensors, motors, and a Python script connected to the National Weather Service API, among others.
 
-**Fashion MNIST Convolutional Neural Network Image Classifier** | [Github](https://github.com/Lai-Justin/FashionMNIST-Image-Classifier)
+**Fashion MNIST Convolutional Neural Network Image Classifier**
+
+[Github](https://github.com/Lai-Justin/FashionMNIST-Image-Classifier)
 
 A classic introduction into Deep Learning and Neural Networks, the Fashion MNIST dataset if a collection of 50,000 28x28 pixel greyscale images of 10 different categories of clothing. By creating and training a convolutional neural network, I was able to create a model that could identify and create correct predictions that classified what category of clothing that image contained.
 
