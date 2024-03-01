@@ -79,7 +79,7 @@ Inspired by a particularly hot summer in Berlin without air conditioning, I deci
 
 **Fashion MNIST Convolutional Neural Network Image Classifier**
 
-[Github](https://github.com/Lai-Justin/Schedule-Planner)
+[Github](https://github.com/Lai-Justin/FashionMNIST-Image-Classifier)
 
 A classic introduction into Deep Learning and Neural Networks, the Fashion MNIST dataset if a collection of 50,000 32x32 pixel greyscale images of 10 different categories of clothing. By creating and training a convolutional neural network, I was able to create a model that could identify and create correct predictions that classified what category of clothing that image contained.
 
