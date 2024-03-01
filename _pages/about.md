@@ -67,7 +67,7 @@ As a first attempt at Artificial Intelligence, I developed a program which class
 
 **Temperature-Based Automated Window Control Software** \| [Github](https://github.com/Lai-Justin/Window-Control)
 
-Inspired by a particularly hot summer in Berlin without air conditioning, I decided to create a device that could automatically maintain a cool temperture indoors during a heatwave without the use of air conditioning and fans as a proof of concept idea for people who are low-mobility or disabled. This was done using a RaspberryPi, heat sensors, motors, and a Python script connected to the National Weather Service API, among others.
+Inspired by a particularly hot summer in Berlin without air conditioning, I decided to create a device that could automatically maintain a cool temperature indoors during a heatwave without the use of air conditioning and fans as a proof of concept idea for people who are low-mobility or disabled. This was done using a RaspberryPi, heat sensors, motors, and a Python script connected to the National Weather Service API, among others.
 
 **Fashion MNIST Convolutional Neural Network Image Classifier** \| [Github](https://github.com/Lai-Justin/FashionMNIST-Image-Classifier)
 
