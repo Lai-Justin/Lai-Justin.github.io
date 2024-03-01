@@ -1,8 +1,5 @@
 # main links links
 main:
-  - title: "Projects"
-    url: /portfolio/
-        
     
   - title: "Resume"
     url: /files/Resume.pdf
