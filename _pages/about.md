@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! I’m Justin and I am a new graduate of the University of California, Santa Barbara with a B.S. in Computer Science with an interest in machine learning and natural language processing. During the Summer of 2022, I interned at Sermonis.ai as a Machine Learning Engineer where I built natural language processing models to create intelligent virtual assistants for use in commercial and industrial purposes.
 
-In the past, I worked at the University of California San Francisco as a Frontend Web Developer and a Software QA Tester for the IndustryDocumentsLibrary and the Illios Project.
+In the past, I worked at the University of California, San Francisco as a Frontend Web Developer and a Software QA Tester for the IndustryDocumentsLibrary and the Illios Project.
 
 Besides computer science, some passions of mine are street photography as well as linguistics and language learning which fuels my interest in natural language processing. Along with English, I can speak Cantonese, French, German, and beginner-level Italian.
 
