@@ -61,6 +61,10 @@ In an effort to aid fellow incoming and current Gauchos at the UC Santa Barbara,
 
 An online clothing retailer in New York City operates by running a small in-person gallery where customers can see and try on clothes before making their order either on a mobile app or a website. The company is hoping to increase their sales by improving the customer experience on their their online storefronts but due to budget restrictions, they can only focus on one online storefront at this current time. By analyzing customer purchase data, we can use linear regression to model which storefront the company should work on improving first.
 
+**Determining and Predicting Loan Repayment Status using Decision Trees and Random Forests** \| [Github](https://github.com/Lai-Justin/Loan-Payment-Predictions-Decision-Tree)
+
+For better or for worse, loan lending and debt repayment forms the bedrock of efficient and productive allocation of economic resources in our modern financial systems. In the realm of financial institutions, determining the creditworthiness of loan applicants is crucial for minimizing default risks and maximizing profitability. This project aims to leverage the power of machine learning, specifically decision trees, to predict the repayment status of loans. To build this decision tree, I will be using lending data from peer-to-peer lending service LendingClub from the years 2007 to 2010.
+
 **Athlete Fitness Naïve Bayes' Classifier** \| [Github](https://github.com/Lai-Justin/Schedule-Planner)
 
 As a first attempt at Artificial Intelligence, I developed a program which classified and predicted the fitness of a person given their health information using the Naïve Bayes' Theorem. This was done by training a model using dataset contain the health information of 10,000 different athletes and health criteria such as weight, height, heart rate, and grip strength.
