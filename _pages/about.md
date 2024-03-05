@@ -33,7 +33,7 @@ Experience
 ======
 **Machine Learning Engineer Intern @ Sermonis.ai (_Summer 2022_)**
 - Developed web scraper to extract text from online news articles, enabling efficient data collection
-- Cleaned, labeled, and converted the text into JSONs, optimizing data quality and compatibility with NLP models
+- Cleaned, labeled, and converted the text into JSONs, optimizing data compatability for large language models
 - Utilized the Huggingface library to tokenize the text data for streamlined preprocessing and feature extraction
 - Assisted with deploying ElasticSearch to index and store the tokenized data for efficient querying and retrieval
 - Leveraged ElasticSearch to effectively store and search the tokenized data, enabling fast and accurate information retrieval for downstream tasks
