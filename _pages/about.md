@@ -20,7 +20,8 @@ Technical Skills
 ======
 - **Languages**: Python, C++, C, R, OCaml, JavaScript, TypeScript, Java, SQL, MIPS, C#, HTML5, CSS, LaTeX
 - **Tools**: Git, VS Code, Bash, Unix/Linux, Anaconda, PostgreSQL, Docker, Elastic Search, Kibana, AWS EC2, Kanban 
-- **Frameworks**: Agile, CI/CD, React, Node, MongoDB, Flask, JUnit, RESTful API, Spring Boot, CodeCov, Storybook
+- **Frameworks**: React, Node, MongoDB, Express, Flask, JUnit, RESTful API, Spring Boot, CodeCov, Storybook
+- **Processes**: Agile, Continuous Integration and Delivery, Object-Oriented Programming, Waterfall Development
 - **Libraries**: NumPy, Pandas, Seaborn, RSQLite, Scikit-Learn, TensorFlow, PyTorch, HuggingFace, Keras, OpenCV, Spark
 
 
