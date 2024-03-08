@@ -33,19 +33,17 @@ Education
 Experience
 ======
 **Machine Learning Engineer Intern @ Sermonis.ai (_Summer 2022_)**
-- Developed web scraper to extract text from online news articles, enabling efficient data collection
-- Cleaned, labeled, and converted the text into JSONs, optimizing data compatability for large language models
-- Utilized the Huggingface library to tokenize the text data for streamlined preprocessing and feature extraction
-- Assisted with deploying ElasticSearch to index and store the tokenized data for efficient querying and retrieval
-- Leveraged ElasticSearch to effectively store and search the tokenized data, enabling fast and accurate information retrieval for downstream tasks
+- Diversified training data by developing a series of text scrapers for a variety of data sources
+- Accelerated data processing speeds by automating data cleaning, labeling, and lemmatization processes
+- Tokenized text data using the BERT transformer for improved natural language processing model training
+- Deployed ElasticSearch to index and search tokenized data for efficient querying and retrieval
 
 **Frontend Web Developer Intern @ University of California, San Francisco (_Summer 2018_)**
-- Improved UI features in The Ilios Project’s medical curriculum manager, such as task lists, reminders, and toolbars
-- Revised the IndustryDocumentLibrary’s UI, enhancing accessibility, viewing experience, and content delivery
-- Enhanced text scraping in IndustryDocumentLibrary for efficient metadata extraction from legal documents
-- Processed and redacted medical documents for online publication, ensuring confidentiality and compliance
-- Contributed to UI/UX discussions, actively suggesting enhancements in meetings for continuous improvement
-- Performed QA and unit and integration testing for both projects using JUnit, Selenium, and Mockito
+- Improved usability and user productivity by developing frontend features such as task lists, reminders, and toolbars
+- Enhanced accessibility, viewing experience, and content delivery speed by revising backend elements
+- Automated medical document processing for metadata extraction and redaction for confidentiality and  compliance
+- Performed rigorous unit and integration testing with JUnit, Selenium, and Mockito
+
 
 
 Projects
