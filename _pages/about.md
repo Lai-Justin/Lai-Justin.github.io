@@ -56,6 +56,10 @@ The CIFAR-10 dataset is a collection of 60,000 32x32 color images, with each of 
 
 In an effort to aid fellow incoming and current Gauchos at the UC Santa Barbara, I created a web application that allows students to more easily and conveniently schedule course schedules for every quarter of every year during their undergraduate career. The Four-Year Schedule Planner includes functionality such as specific major requirement auotfills, historical course grade distributions, and course search functionalities.
 
+**OpenAI Dall-E Image Generator Web Application** \| [Github](https://github.com/Lai-Justin/Image-Generator)
+
+A simple full-stack web application where users can give a prompt and will receive an AI generated image as a results. This project uses HTML and CSS for the frontend, and Express.js and Node.js for the backend to create POST requests using OpenAI's image generation API to receive an image.
+
 **Ecommerce Linear Regression and Data Analysis** \| [Github](https://github.com/Lai-Justin/Commerce-Linear-Regression)
 
 An online clothing retailer in New York City operates by running a small in-person gallery where customers can see and try on clothes before making their order either on a mobile app or a website. The company is hoping to increase their sales by improving the customer experience on their their online storefronts but due to budget restrictions, they can only focus on one online storefront at this current time. By analyzing customer purchase data, we can use linear regression to model which storefront the company should work on improving first.
