@@ -48,6 +48,10 @@ Experience
 
 Projects
 ======
+**Online Matcha Storefront AI Customer Support Chatbot** \| [Github](https://github.com/Lai-Justin/chat_bot)
+
+An AI chatbot built to serve as a customer support assistant for an online Japanese Green Tea retailer. The chatbot itself was trained on a Feedforward Neural Network using PyTorch and uses Flask as the backend in order to integrate the chatbot with a simple frontend web interface.
+
 **CIFAR-10 Convolutional Neural Network Image Classifier** \| [Github](https://github.com/Lai-Justin/Keras-CIFAR-10-CNN)
 
 The CIFAR-10 dataset is a collection of 60,000 32x32 color images, with each of the images falling into one of ten different categories. These categories are: airplanes, automobiles, birds, cats, deers, dogs, frogs, horses, ships, and trucks. Using this dataset, I created a convolutional neural network to create a machine learning image classifier to classify 10,000 of the images to the correct categorical label.
